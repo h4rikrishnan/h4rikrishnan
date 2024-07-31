@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @h4rikrishnan
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning java
+- 😓 I'm a sophomore in college confused what to learn
