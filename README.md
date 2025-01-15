@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @h4rikrishnan
-- 👀 I’m interested in coding
-- 🌱 I'm trying to learn more
-- 😓 I'm a sophomore in college confused what to learn
+🌱 I'm trying to learn more
